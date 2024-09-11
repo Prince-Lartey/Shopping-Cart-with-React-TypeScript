@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "Joyful Brotherhood",
+        "price": 1999.00,
+        "imgUrl": "/img/img1.jpg"
+    },
+
+    {
+        "id": 2,
+        "name": "...",
+        "price": 1059.59,
+        "imgUrl": "/img/img2.jpg"
+    },
+
+    {
+        "id": 3,
+        "name": "Depth I",
+        "price": 629.99,
+        "imgUrl": "/img/img3.jpg"
+    },
+
+    {
+        "id": 4,
+        "name": "New Territory",
+        "price": 3159.00,
+        "imgUrl": "/img/img4.jpg"
+    },
+
+    {
+        "id": 5,
+        "name": "Sunday Morning - Osnat Fine Art",
+        "price": 1290.00,
+        "imgUrl": "/img/img5.jpg"
+    },
+
+    {
+        "id": 6,
+        "name": "Smiles and Frowns Painting",
+        "price": 2499.00,
+        "imgUrl": "/img/img6.jpg"
+    }
+]
